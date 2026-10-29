@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "a01",
+    "section": "By Invitation",
+    "prominence": "section_opening",
+    "words": 967,
+    "headline": "Don’t blame global imbalances on the undervalued yuan",
+    "standfirst": "Demanding that China revalue the yuan gets both the diagnosis and the cure wrong, write Gita Gopinath, Pierre-Olivier Gourinchas and Hélène Rey",
+    "entities": [
+      "Gita Gopinath",
+      "Pierre-Olivier Gourinchas",
+      "Hélène Rey",
+      "China",
+      "United States",
+      "Chinese Yuan (RMB)",
+      "US Dollar",
+      "IMF"
+    ],
+    "events": [
+      "US political leaders intensify pressure on Beijing to revalue the yuan to reduce bilateral trade deficits in mid-2026",
+      "IMF economic research release on multilateral trade balances"
+    ],
+    "core_claims": [
+      "Bilateral exchange-rate manipulation is not the primary driver of global trade imbalances.",
+      "Trade deficits reflect aggregate macroeconomic disparities between national savings and investment rates.",
+      "Forcing yuan appreciation without addressing China's high domestic savings rate and America's fiscal deficit will merely redirect trade flows to third countries rather than reduce overall imbalances."
+    ]
+  },
+  {
+    "id": "a02",
+    "section": "Briefing",
+    "prominence": "briefing",
+    "words": 2544,
+    "headline": "Despite 40 years of our Big Mac index, currencies are still mispriced",
+    "standfirst": "Exchange-rate theory can be a lot to digest. Instead, take three trips to McDonald’s",
+    "entities": [
+      "The Economist",
+      "Big Mac Index",
+      "McDonald's",
+      "Burgernomics",
+      "Purchasing Power Parity (PPP)",
+      "Balassa-Samuelson effect",
+      "Swiss Franc",
+      "Japanese Yen",
+      "Chinese Yuan",
+      "Euro"
+    ],
+    "events": [
+      "40th anniversary of The Economist's Big Mac index launched in 1986",
+      "July 2026 global price audit of Big Macs across 55 countries"
+    ],
+    "core_claims": [
+      "Market exchange rates persistently diverge from purchasing power parity implied by the price of a standard basket of goods such as the Big Mac.",
+      "Adjusting for GDP per person (the Balassa-Samuelson effect) explains why cheaper labour keeps burger prices low in developing economies like China, yet wide currency mispricings remain entrenched.",
+      "Persistent currency undervaluations reflect structural capital account restrictions and safe-haven capital flows rather than fast self-correcting goods arbitrage."
+    ]
+  },
+  {
+    "id": "a03",
+    "section": "Asia",
+    "prominence": "section_opening",
+    "words": 1021,
+    "headline": "China bets that Donald Trump won’t mind it bullying American allies",
+    "standfirst": "It has stepped up its abuse of Australia, the Philippines and Japan",
+    "entities": [
+      "China",
+      "Donald Trump",
+      "Gilbert Teodoro Jr",
+      "Philippines",
+      "Australia",
+      "Japan",
+      "South China Sea",
+      "Second Thomas Shoal",
+      "People's Liberation Army Navy"
+    ],
+    "events": [
+      "Chinese coastguard and naval vessels conduct aggressive water-cannon and ramming maneuvers against Philippine supply missions in July 2026",
+      "PLA aircraft incursions intensify near Japanese airspace and Australian maritime patrols"
+    ],
+    "core_claims": [
+      "Beijing is testing whether a second Trump administration will abandon treaty allies in the Western Pacific in exchange for bilateral commercial deals.",
+      "Philippine defence officials warn that American ambivalence risks unraveling mutual defence deterrence in the South China Sea.",
+      "Allied capitals in Tokyo, Canberra, and Manila are forming minilateral security pacts to hedge against American unpredictability."
+    ]
+  },
+  {
+    "id": "a04",
+    "section": "Asia",
+    "prominence": "standard_article",
+    "words": 542,
+    "headline": "Behind India’s protests is a crisis in the graduate-jobs market",
+    "standfirst": "Fixing the exam system will not solve that",
+    "entities": [
+      "India",
+      "National Testing Agency (NTA)",
+      "NEET exam",
+      "UGC-NET",
+      "New Delhi",
+      "Bihar",
+      "Uttar Pradesh"
+    ],
+    "events": [
+      "Nationwide student demonstrations and street protests erupt following widespread paper leaks and cancellations of civil service and university entrance exams in mid-2026",
+      "Parliamentary opposition grills the education ministry over test integrity"
+    ],
+    "core_claims": [
+      "The exam corruption scandal is a symptom of a deeper structural crisis: severe graduate underemployment across India.",
+      "Millions of educated youth spend years preparing for a tiny pool of secure government posts because the private sector generates insufficient formal white-collar jobs.",
+      "Digital exam reforms cannot resolve the fundamental mismatch between credential supply and industrial job creation."
+    ]
+  },
+  {
+    "id": "a05",
+    "section": "Asia",
+    "prominence": "standard_article",
+    "words": 801,
+    "headline": "Japanese politics is becoming less of a turn-off for the young",
+    "standfirst": "Social-media-savvy politicians are drawing them in",
+    "entities": [
+      "Japan",
+      "Liberal Democratic Party (LDP)",
+      "Koshiyama Ryotaro",
+      "Tokyo",
+      "Hokkaido",
+      "YouTube",
+      "TikTok"
+    ],
+    "events": [
+      "Youth voter turnout surges in regional assembly and prefectural elections following viral social media campaigns by independent candidates",
+      "LDP elders launch youth outreach initiatives"
+    ],
+    "core_claims": [
+      "A decades-long trend of political apathy among young Japanese voters is beginning to reverse through digital campaigning.",
+      "Younger voters focus on tangible economic anxieties including stagnant wages, pension viability, and child-care shortages rather than traditional party patronage."
+    ]
+  },
+  {
+    "id": "a06",
+    "section": "Asia",
+    "prominence": "standard_article",
+    "words": 385,
+    "headline": "Beerlao: probably the most important lager in the world",
+    "standfirst": "Its country’s economy depends on it",
+    "entities": [
+      "Laos",
+      "Lao Brewery Company",
+      "Beerlao",
+      "Carlsberg",
+      "Vientiane",
+      "Kip (currency)"
+    ],
+    "events": [
+      "Lao Brewery Company reports record annual revenue, providing vital foreign exchange during severe national fiscal distress"
+    ],
+    "core_claims": [
+      "Beerlao controls over 95% of the domestic beer market and accounts for nearly 8% of the Lao government's total domestic tax receipts.",
+      "As the Lao kip depreciates and external debt mounts, the brewery remains one of the few stable industrial exporters and foreign-currency earners in the country."
+    ]
+  },
+  {
+    "id": "a07",
+    "section": "Asia",
+    "prominence": "standard_article",
+    "words": 782,
+    "headline": "Narendra Modi is on a quest to regain his aura",
+    "standfirst": "What India’s government learnt from recent student protests",
+    "entities": [
+      "Narendra Modi",
+      "Bharatiya Janata Party (BJP)",
+      "National Democratic Alliance (NDA)",
+      "Rahul Gandhi",
+      "India"
+    ],
+    "events": [
+      "Modi's cabinet announces new youth internship stipends and rural employment guarantees following election setback and student unrest",
+      "Parliament debates public exam integrity bills"
+    ],
+    "core_claims": [
+      "Having lost his single-party parliamentary majority, Modi is shifting rhetoric from civilisational dominance to pragmatic economic delivery.",
+      "Student protests over job scarcity and exam leaks directly threaten the BJP's appeal among young upwardly mobile voters.",
+      "Coalition management forces Modi to compromise with regional allies on federal spending and social welfare."
+    ]
+  },
+  {
+    "id": "a08",
+    "section": "China",
+    "prominence": "section_opening",
+    "words": 1133,
+    "headline": "China’s mightiest river is coming back from the brink",
+    "standfirst": "But eco-authoritarianism is not all roses",
+    "entities": [
+      "China",
+      "Yangzi River",
+      "Three Gorges Dam",
+      "Ministry of Ecology and Environment",
+      "Finless Porpoise",
+      "Shanghai",
+      "Hubei"
+    ],
+    "events": [
+      "Midway review of China's 10-year commercial fishing ban on the Yangzi River launched in 2021",
+      "State environmental inspectors report rebound in aquatic biodiversity"
+    ],
+    "core_claims": [
+      "Top-down state enforcement has dramatically reduced industrial pollution and revived endangered fish species along the Yangzi basin.",
+      "However, ecological authoritarianism has forcibly displaced over 230,000 traditional fishermen into precarious urban gig work with inadequate compensation.",
+      "Agricultural runoff and heavy damming continue to pose long-term hydrological challenges despite commercial fishing bans."
+    ]
+  },
+  {
+    "id": "a09",
+    "section": "China",
+    "prominence": "standard_article",
+    "words": 783,
+    "headline": "Xi Jinping, pioneering venture capitalist",
+    "standfirst": "CXMT’s monster initial public offering is a money-maker for the state. Its success may not be repeated",
+    "entities": [
+      "China",
+      "Xi Jinping",
+      "ChangXin Memory Technologies (CXMT)",
+      "Hefei city government",
+      "National Integrated Circuit Industry Investment Fund (Big Fund)",
+      "DRAM memory",
+      "Samsung",
+      "SK Hynix"
+    ],
+    "events": [
+      "CXMT completes a massive initial public offering in Shanghai on July 27th 2026, raising over $4bn",
+      "State guidance funds realize multi-billion dollar paper gains on domestic memory chip equity"
+    ],
+    "core_claims": [
+      "China's state-directed venture capital model achieved a genuine industrial milestone by building CXMT into a global top-four DRAM manufacturer.",
+      "Yet CXMT's capital-intensive success relied on unique geopolitical urgency and municipal guarantees from Hefei that cannot easily be scaled across more complex software or design sectors.",
+      "US export restrictions on advanced semiconductor equipment threaten the long-term process-node roadmap for Chinese memory fabs."
+    ]
+  },
+  {
+    "id": "a10",
+    "section": "China",
+    "prominence": "standard_article",
+    "words": 529,
+    "headline": "The curious, never-ending crackdown on Hong Kong’s booksellers",
+    "standfirst": "A case of national-security theatre",
+    "entities": [
+      "Hong Kong",
+      "Article 23 legislation",
+      "National Security Department",
+      "Causeway Bay Books",
+      "Jimmy Lai"
+    ],
+    "events": [
+      "Hong Kong national security police raid independent book fairs and specialty bookstores in Mong Kok, seizing uncensored memoirs and political tracts",
+      "Two independent publishers arrested under sedition charges"
+    ],
+    "core_claims": [
+      "The continued harassment of small indie booksellers serves as performative national security theatre rather than neutralizing actual security threats.",
+      "Self-censorship has completely hollowed out Hong Kong's once-vibrant publishing ecosystem, driving critical discourse underground or into exile."
+    ]
+  },
+  {
+    "id": "a11",
+    "section": "China",
+    "prominence": "standard_article",
+    "words": 710,
+    "headline": "Sex, blood and Communist Party virtues",
+    "standfirst": "A gory film tests prudish government censors",
+    "entities": [
+      "China",
+      "Quentin Tarantino",
+      "Kill Bill",
+      "National Radio and Television Administration (NRTA)",
+      "Beijing film festival"
+    ],
+    "events": [
+      "Special theatrical retrospective of Quentin Tarantino films approved for limited screening in Beijing and Shanghai with heavy cuts",
+      "Online debate erupts over official moral guidelines in cinema"
+    ],
+    "core_claims": [
+      "Chinese cultural censors remain pathologically nervous about excessive violence and sexual agency in foreign cinema.",
+      "State cultural authorities promote hyper-nationalistic war epics with extreme battlefield gore while banning realistic domestic social dramas."
+    ]
+  },
+  {
+    "id": "a12",
+    "section": "United States",
+    "prominence": "section_opening",
+    "words": 1152,
+    "headline": "The anti-abortion crusade’s new fight",
+    "standfirst": "With legal abortions on the rise, an aggressive battle is beginning",
+    "entities": [
+      "United States",
+      "Supreme Court",
+      "Dobbs v Jackson",
+      "Mifepristone",
+      "Comstock Act of 1873",
+      "Alliance Defending Freedom",
+      "Texas",
+      "California"
+    ],
+    "events": [
+      "Conservative state legislatures introduce interstate travel restrictions and mail interception measures targeting medication abortion in summer 2026",
+      "Federal lawsuits seek enforcement of 19th-century anti-obscenity statutes against abortion drugs"
+    ],
+    "core_claims": [
+      "Four years after Dobbs overturned Roe v Wade, the nationwide volume of abortions has actually increased due to telehealth and mail-order mifepristone.",
+      "Anti-abortion groups are now pivoting from state-level bans to federal executive enforcement and interstate commerce restrictions.",
+      "The movement's push to revive the Comstock Act threatens to bypass Congressional gridlock and ban abortion nationwide through administrative fiat."
+    ]
+  },
+  {
+    "id": "a13",
+    "section": "United States",
+    "prominence": "standard_article",
+    "words": 920,
+    "headline": "Donald Trump is warming to Volodymyr Zelensky",
+    "standfirst": "The man with “no cards” plays a deft hand",
+    "entities": [
+      "Donald Trump",
+      "Volodymyr Zelensky",
+      "Ukraine",
+      "Russia",
+      "Vladimir Putin",
+      "Washington DC",
+      "Mar-a-Lago"
+    ],
+    "events": [
+      "President Zelensky holds high-stakes private meetings with Donald Trump and his national security advisors in July 2026",
+      "Trump praises Ukrainian military resilience while urging negotiated ceasefire framework"
+    ],
+    "core_claims": [
+      "Zelensky has skillfully countered the perception in Trump's circle that Ukraine has 'no cards' by pitching joint mineral development, drone industrial partnerships, and European burden-sharing.",
+      "Trump's transactional foreign policy approach leaves open the possibility of continued military aid if packaged as loans or resource concessions.",
+      "However, Ukraine remains deeply vulnerable to Trump's desire for a rapid headline diplomatic triumph regardless of long-term territorial concessions."
+    ]
+  },
+  {
+    "id": "a14",
+    "section": "United States",
+    "prominence": "standard_article",
+    "words": 830,
+    "headline": "How to turn solutions into problems",
+    "standfirst": "Lessons from a fight over a bridge between America and Canada",
+    "entities": [
+      "United States",
+      "Canada",
+      "Gordie Howe International Bridge",
+      "Detroit River",
+      "Windsor",
+      "Michigan",
+      "Matty Moroun family",
+      "Ambassador Bridge"
+    ],
+    "events": [
+      "Construction of the $4.5bn Gordie Howe International Bridge reaches final decking phase ahead of late 2026 opening",
+      "Local Michigan and federal regulatory disputes erupt over customs staffing and toll revenue sharing"
+    ],
+    "core_claims": [
+      "A vital infrastructure project financed entirely by Canada to secure North American supply chains has become bogged down in protectionist American politics.",
+      "The bridge battle highlights how local rent-seeking and cross-border regulatory friction undermine continental manufacturing integration."
+    ]
+  },
+  {
+    "id": "a15",
+    "section": "United States",
+    "prominence": "standard_article",
+    "words": 1045,
+    "headline": "The tide turns for a Florida darling and California loser",
+    "standfirst": "Miami faces new problems as San Francisco makes a comeback",
+    "entities": [
+      "Miami",
+      "San Francisco",
+      "Florida",
+      "California",
+      "Silicon Valley",
+      "Artificial Intelligence",
+      "Commercial Real Estate",
+      "Climate Risk"
+    ],
+    "events": [
+      "San Francisco venture capital investment surges to record highs driven by the generative AI cluster",
+      "Miami office vacancies rise as insurance premiums and climate costs spike"
+    ],
+    "core_claims": [
+      "The pandemic-era narrative of San Francisco's terminal 'doom loop' and Miami's unstoppable rise has dramatically reversed.",
+      "The concentration of AI research talent and deep venture capital in the Bay Area proved irreplaceable by low-tax sunbelt hubs.",
+      "Soaring property insurance premiums and sea-level infrastructure vulnerabilities are undermining Florida's low-tax economic advantage."
+    ]
+  },
+  {
+    "id": "a16",
+    "section": "United States",
+    "prominence": "standard_article",
+    "words": 860,
+    "headline": "Donald Trump’s food-stamp overhaul is beginning to bite",
+    "standfirst": "Federal reforms have left the states with a growing bill",
+    "entities": [
+      "United States",
+      "Donald Trump",
+      "Supplemental Nutrition Assistance Program (SNAP)",
+      "Department of Agriculture",
+      "Arizona",
+      "Tucson",
+      "Texas"
+    ],
+    "events": [
+      "Federal implementation of tightened work requirements and block-grant limits for SNAP takes full effect across participating states",
+      "State social service agencies report ballooning administrative backlogs and rising food bank queues"
+    ],
+    "core_claims": [
+      "Trump's welfare overhaul has transferred significant fiscal and administrative costs of nutrition assistance from the federal government to state budgets.",
+      "Strict reporting rules have resulted in hundreds of thousands of low-income working families losing benefits due to paperwork churn rather than employment gains.",
+      "Republican-led states with thin social safety nets are facing unexpected budget shortfalls as local charity networks are overwhelmed."
+    ]
+  },
+  {
+    "id": "a17",
+    "section": "United States",
+    "prominence": "standard_article",
+    "words": 940,
+    "headline": "The Michigan Senate primary is a fight for control of the Democrats",
+    "standfirst": "Anger at Donald Trump and Israel have given the left an opening",
+    "entities": [
+      "Michigan",
+      "United States Senate",
+      "Democratic Party",
+      "Abdul El-Sayed",
+      "Elissa Slotkin",
+      "Detroit",
+      "Dearborn",
+      "United Auto Workers (UAW)"
+    ],
+    "events": [
+      "Heated primary debates in Detroit and Ann Arbor ahead of the August 2026 Michigan Senate election",
+      "Arab-American coalitions and progressive labor unions mobilize against centrist candidates over Middle East foreign policy"
+    ],
+    "core_claims": [
+      "The Michigan primary serves as a national battleground between the Democratic party's pragmatic establishment and an energized progressive, anti-war left.",
+      "Voter alienation among Arab-Americans and young progressives over Biden-era Middle East policy threatens Democratic turnout in the crucial November general election."
+    ]
+  },
+  {
+    "id": "a18",
+    "section": "The Americas",
+    "prominence": "section_opening",
+    "words": 890,
+    "headline": "Canada turns to Europe for its security",
+    "standfirst": "Donald Trump’s capriciousness has pushed Ottawa into the arms of European arms-makers",
+    "entities": [
+      "Canada",
+      "Ottawa",
+      "Europe",
+      "Donald Trump",
+      "NATO",
+      "Royal Canadian Navy",
+      "Department of National Defence",
+      "TKMS (Germany)",
+      "Hanwha Ocean",
+      "F-35"
+    ],
+    "events": [
+      "Canadian Defence Minister announces multi-billion dollar submarine procurement program prioritizing European and allied shipyards over US sole-sourcing",
+      "Ottawa signs bilateral defence industrial pacts with Germany and Britain"
+    ],
+    "core_claims": [
+      "Fears of American isolationism under Donald Trump are driving Canada to diversify its military alliances and defence supply chains toward European partners.",
+      "Ottawa's defence pivot reflects a broader strategic anxiety that Washington can no longer be counted on as the sole guarantor of Arctic and continental sovereignty.",
+      "However, Canada's decades of military underfunding and sluggish procurement bureaucracy make rearmament painfully slow."
+    ]
+  },
+  {
+    "id": "a19",
+    "section": "The Americas",
+    "prominence": "standard_article",
+    "words": 750,
+    "headline": "How Filipino immigrants revitalised a small Canadian town",
+    "standfirst": "And how Mark Carney’s immigration curbs threaten the model",
+    "entities": [
+      "Canada",
+      "Neepawa",
+      "Manitoba",
+      "Philippines",
+      "Hylife Foods",
+      "Mark Carney",
+      "Liberal Party of Canada"
+    ],
+    "events": [
+      "Town of Neepawa celebrates 20 years of population rebound driven by Filipino food processing workers",
+      "Federal government enacts strict caps on temporary foreign worker permits and permanent resident intake"
+    ],
+    "core_claims": [
+      "Targeted immigration transformed decaying rural prairie towns into thriving economic hubs with young families, new schools, and stable industrial workforces.",
+      "Ottawa's political panic over national housing shortages has led to blunt immigration quotas that threaten vital rural manufacturing businesses."
+    ]
+  },
+  {
+    "id": "a20",
+    "section": "The Americas",
+    "prominence": "standard_article",
+    "words": 920,
+    "headline": "Brazil has the world’s strictest laws against racist speech",
+    "standfirst": "Dealing with bigots is a serious business",
+    "entities": [
+      "Brazil",
+      "Luiz Inácio Lula da Silva",
+      "Supreme Federal Court",
+      "Alexandre de Moraes",
+      "Brasília",
+      "Afro-Brazilians"
+    ],
+    "events": [
+      "Brazilian courts hand down landmark prison sentences for online and stadium racial abuse following 2023 anti-racism legal amendments",
+      "Supreme Court upholds ban on social media accounts inciting racial hatred"
+    ],
+    "core_claims": [
+      "Brazil has established one of the world's most aggressive legal frameworks against racist speech, equating racial slurs with unbailable constitutional felonies.",
+      "Judicial enforcement has created real deterrents against overt discrimination in public spaces and sporting events.",
+      "Critics question whether judicial overreach and vague definitions of hate speech infringe upon legitimate political debate."
+    ]
+  },
+  {
+    "id": "a21",
+    "section": "Middle East & Africa",
+    "prominence": "section_opening",
+    "words": 1120,
+    "headline": "New strikes in Iran show the weakness of Donald Trump’s deal",
+    "standfirst": "America and Iran returned to fighting after an informal five-day truce",
+    "entities": [
+      "Iran",
+      "United States",
+      "Donald Trump",
+      "Tehran",
+      "Islamic Revolutionary Guard Corps (IRGC)",
+      "Strait of Hormuz",
+      "Persian Gulf",
+      "Jordan"
+    ],
+    "events": [
+      "US military launches precision airstrikes on Iranian radar installations and drone bases following militia drone strikes on US personnel in Jordan",
+      "Iranian speedboats harass commercial oil tankers in the Strait of Hormuz"
+    ],
+    "core_claims": [
+      "Trump's attempts to broker an informal de-escalation pact with Tehran have collapsed under the weight of regional proxy skirmishes.",
+      "Iran's leadership views American reluctance for full-scale war as weakness, escalating maritime harassment to force sanction relief.",
+      "Without a credible diplomatic architecture or clear deterrence red lines, the Gulf remains on the knife-edge of direct military confrontation."
+    ]
+  },
+  {
+    "id": "a22",
+    "section": "Middle East & Africa",
+    "prominence": "standard_article",
+    "words": 870,
+    "headline": "Saudi Arabia is locked in a dangerous stand-off with the Houthis",
+    "standfirst": "The Red Sea conflict threatens to reignite Yemen’s war",
+    "entities": [
+      "Saudi Arabia",
+      "Yemen",
+      "Houthis",
+      "Ansar Allah",
+      "Mohammed bin Salman",
+      "Riyadh",
+      "Red Sea",
+      "Bab al-Mandab"
+    ],
+    "events": [
+      "Houthi ballistic missile launches toward Red Sea shipping intensify, threatening Saudi airspace and energy facilities",
+      "Riyadh holds emergency security talks with Washington while striving to preserve its fragile Yemen truce"
+    ],
+    "core_claims": [
+      "Saudi Arabia finds itself trapped between its desire to protect Vision 2030 megaprojects from Houthi missiles and US pressure to join offensive strikes.",
+      "The Houthis have weaponised maritime disruption to bolster their domestic authority and leverage regional influence with Tehran.",
+      "A wider maritime war could instantly drag Riyadh back into the devastating Yemeni quagmire it spent years attempting to exit."
+    ]
+  },
+  {
+    "id": "a23",
+    "section": "Middle East & Africa",
+    "prominence": "standard_article",
+    "words": 680,
+    "headline": "The International Criminal Court puts its house in order",
+    "standfirst": "From crisis to crisis, Karim Khan tries to reform the court",
+    "entities": [
+      "International Criminal Court (ICC)",
+      "The Hague",
+      "Karim Khan",
+      "Israel",
+      "Gaza",
+      "Russia",
+      "United States Congress"
+    ],
+    "events": [
+      "ICC Chief Prosecutor Karim Khan implements sweeping internal management restructuring amid US congressional sanctions threats over Middle East arrest warrants"
+    ],
+    "core_claims": [
+      "The ICC is fighting for its global legitimacy while confronting unprecedented political retaliation from Washington and Moscow.",
+      "Internal managerial bottlenecks and delayed trials have long hindered the court's operational credibility.",
+      "Prosecutorial independence is being tested as Western powers seek to shield allies while demanding accountability for geopolitical adversaries."
+    ]
+  },
+  {
+    "id": "a24",
+    "section": "Middle East & Africa",
+    "prominence": "standard_article",
+    "words": 830,
+    "headline": "West Africa has become a huge cocaine-trading hub",
+    "standfirst": "A new high in transatlantic narcotics trafficking",
+    "entities": [
+      "West Africa",
+      "Guinea-Bissau",
+      "Senegal",
+      "Gulf of Guinea",
+      "Latin American cartels",
+      "European Union",
+      "UNODC"
+    ],
+    "events": [
+      "Multi-ton maritime cocaine seizures in the ports of Dakar and Bissau by international naval task forces in mid-2026",
+      "UN report documents surge in West African narco-corruption"
+    ],
+    "core_claims": [
+      "West Africa has evolved from a passive transit corridor into an active, institutionalized logistical hub for Latin American cocaine syndicates supplying Europe.",
+      "Drug revenues are deeply compromising political institutions and military commands across vulnerable coastal states.",
+      "Rising domestic addiction and cartel-funded armed factions threaten regional stability from the Sahel to the Atlantic coast."
+    ]
+  },
+  {
+    "id": "a25",
+    "section": "Middle East & Africa",
+    "prominence": "standard_article",
+    "words": 560,
+    "headline": "Why Rwandans are warming to dogs",
+    "standfirst": "Furry friends once more after decades of stigma",
+    "entities": [
+      "Rwanda",
+      "Kigali",
+      "1994 Genocide against the Tutsi",
+      "Paul Kagame"
+    ],
+    "events": [
+      "Kigali opens its first dedicated pet parks and veterinary wellness clinics as canine ownership surges among the urban middle class"
+    ],
+    "core_claims": [
+      "For three decades after the 1994 genocide, dogs were widely abhorred in Rwanda because feral packs fed on victims' corpses.",
+      "A generational shift among young urbanites is transforming dogs into celebrated symbols of affluence and domestic companionship.",
+      "The normalization of pet ownership represents a subtle psychological milestone in the nation's ongoing social healing."
+    ]
+  },
+  {
+    "id": "a26",
+    "section": "Europe",
+    "prominence": "section_opening",
+    "words": 1280,
+    "headline": "France and Spain are suffering their biggest wildfires on record",
+    "standfirst": "Rising flames: Bordeaux is on alert, and worse is yet to come",
+    "entities": [
+      "France",
+      "Spain",
+      "Bordeaux",
+      "Gironde",
+      "Castile and León",
+      "European Union Civil Protection Mechanism",
+      "Copernicus Climate Change Service"
+    ],
+    "events": [
+      "Unprecedented July 2026 heatwaves ignite catastrophic forest fires across southwestern France and central Spain, incinerating over 400,000 hectares",
+      "European countries deploy emergency water-bombers under the EU rescEU reserve"
+    ],
+    "core_claims": [
+      "Climate-driven drought and extreme heat have pushed Mediterranean and Atlantic European ecosystems past historical fire resilience thresholds.",
+      "National civil protection agencies and volunteer fire brigades are completely overwhelmed by simultaneous multi-front megablazes.",
+      "Southern Europe faces massive economic losses in tourism, viticulture, and forestry, requiring a radical shift from reactive firefighting to landscape-scale land management."
+    ]
+  },
+  {
+    "id": "a27",
+    "section": "Europe",
+    "prominence": "standard_article",
+    "words": 790,
+    "headline": "The Berlin terror attack exposes deep failings in the state",
+    "standfirst": "An attack in plain sight reveals bureaucratic inertia",
+    "entities": [
+      "Germany",
+      "Berlin",
+      "Federal Office for the Protection of the Constitution (BfV)",
+      "Federal Criminal Police Office (BKA)",
+      "Friedrich Merz"
+    ],
+    "events": [
+      "Parliamentary inquiry investigates intelligence breakdowns prior to a vehicle ramming attack in central Berlin",
+      "Interior ministry pledges major overhaul of federal-state counter-terrorism data coordination"
+    ],
+    "core_claims": [
+      "The attacker was known to multiple regional security services, but rigid federal data-sharing silos prevented preventative detention.",
+      "German security bureaucracy remains paralyzed between strict constitutional privacy laws and modern digital threat interception requirements.",
+      "Public outrage is intensifying political pressure on the coalition government to tighten deportation and asylum surveillance."
+    ]
+  },
+  {
+    "id": "a28",
+    "section": "Europe",
+    "prominence": "standard_article",
+    "words": 850,
+    "headline": "A new party breathes life into Turkey’s opposition",
+    "standfirst": "Sprouting a new head to outflank court bans against Erdogan's rivals",
+    "entities": [
+      "Turkey",
+      "Recep Tayyip Erdogan",
+      "Republican People's Party (CHP)",
+      "Ekrem Imamoglu",
+      "Ankara",
+      "Istanbul"
+    ],
+    "events": [
+      "Opposition figures launch a backup democratic alliance party ahead of potential court-ordered political bans on Istanbul's mayor",
+      "Mass rallies in Izmir draw hundreds of thousands protesting inflation and democratic backsliding"
+    ],
+    "core_claims": [
+      "Turkey's opposition has devised a clever legal circumventing strategy to prevent Erdogan's judiciary from decapitating its candidate pipeline.",
+      "Economic exhaustion from chronic inflation has left Erdogan's ruling party vulnerable despite aggressive media and judicial suppression.",
+      "Maintaining opposition unity across secular nationalists, liberals, and Kurdish voters remains the decisive electoral challenge."
+    ]
+  },
+  {
+    "id": "a29",
+    "section": "Europe",
+    "prominence": "standard_article",
+    "words": 890,
+    "headline": "Russian strikes may keep Ukraine's grain from reaching markets",
+    "standfirst": "Blocked-up grains: missile hits on ports near Odessa threaten the harvest",
+    "entities": [
+      "Ukraine",
+      "Russia",
+      "Odessa",
+      "Chornomorsk",
+      "Danube River",
+      "Black Sea Grain Corridor",
+      "Global Food Prices",
+      "FAO"
+    ],
+    "events": [
+      "Russian ballistic and cruise missiles strike grain silos and cargo terminals in Odessa and Chornomorsk in late July 2026",
+      "Ukrainian grain export capacity drops by 35% during peak harvest season"
+    ],
+    "core_claims": [
+      "Russia is deliberately targeting civilian port logistics to strangle Ukraine's vital agricultural export revenue and disrupt global grain supply.",
+      "Alternative overland rail routes through Poland and Romania remain bottlenecked and politically fraught with local European farmers.",
+      "Without expanded Western air defence coverage over Black Sea ports, developing countries face renewed food inflation spikes."
+    ]
+  },
+  {
+    "id": "a30",
+    "section": "Europe",
+    "prominence": "standard_article",
+    "words": 620,
+    "headline": "In Italy, America does business on the ambassador’s yacht",
+    "standfirst": "Fun-boat diplomacy on the Mediterranean",
+    "entities": [
+      "Italy",
+      "United States",
+      "Rome",
+      "Capri",
+      "Giorgia Meloni",
+      "US Embassy Rome"
+    ],
+    "events": [
+      "US Ambassador hosts high-level bilateral business summit and defence contracting talks aboard a chartered superyacht off Capri"
+    ],
+    "core_claims": [
+      "Informal maritime diplomacy has become Washington's preferred vehicle for cultivating Italian industrial elites and the Meloni government.",
+      "The luxury networking contrasts with official diplomatic sobriety but has delivered lucrative aerospace and LNG supply contracts."
+    ]
+  },
+  {
+    "id": "a31",
+    "section": "Britain",
+    "prominence": "section_opening",
+    "words": 1340,
+    "headline": "Having clawed his way to power, Andy Burnham wants to give some away",
+    "standfirst": "Devolution in England: no representation without taxation",
+    "entities": [
+      "Britain",
+      "Andy Burnham",
+      "Greater Manchester",
+      "Labour Party",
+      "Keir Starmer",
+      "Rachel Reeves",
+      "HM Treasury"
+    ],
+    "events": [
+      "Greater Manchester Combined Authority demands full fiscal devolution of local income tax and business rates retention from Whitehall in July 2026",
+      "Burnham unveils unified regional transport and housing expansion plans"
+    ],
+    "core_claims": [
+      "Andy Burnham has established Manchester as a powerful counterweight to London, proving that regional metro mayors can deliver superior public transport and urban planning.",
+      "However, English devolution remains fundamentally constrained because Whitehall and HM Treasury retain monopoly control over taxation and borrowing powers.",
+      "Burnham's demand for genuine fiscal federalism puts him on a collision course with Keir Starmer's centralising Treasury."
+    ]
+  },
+  {
+    "id": "a32",
+    "section": "Britain",
+    "prominence": "standard_article",
+    "words": 670,
+    "headline": "The world is entering a post-postcard era",
+    "standfirst": "Wish you were here? Fewer ghastly sunsets, more ghastly Instagram",
+    "entities": [
+      "Britain",
+      "Royal Mail",
+      "Instagram",
+      "Blackpool",
+      "Cornwall"
+    ],
+    "events": [
+      "Royal Mail reports postcard postal volumes have plummeted by 85% over the past decade as stamp prices reach record highs"
+    ],
+    "core_claims": [
+      "The physical postcard is rapidly going extinct, replaced by instant digital social media sharing and rising postal tariffs.",
+      "With its demise, Britain is losing a unique century-old genre of uncurated, public holiday correspondence and seaside folk art."
+    ]
+  },
+  {
+    "id": "a33",
+    "section": "Britain",
+    "prominence": "standard_article",
+    "words": 880,
+    "headline": "A widely repeated statistic is shaping Britain’s grooming-gangs debate",
+    "standfirst": "Scrutinising claims about child sexual exploitation",
+    "entities": [
+      "Britain",
+      "Home Office",
+      "National Crime Agency (NCA)",
+      "Rotherham",
+      "Rochdale"
+    ],
+    "events": [
+      "Home Office releases updated empirical review evaluating the demographic data on group-based child sexual exploitation"
+    ],
+    "core_claims": [
+      "Political rhetoric surrounding grooming gangs has been heavily distorted by selective interpretation of unrepresentative local data.",
+      "Rigorous empirical studies show child sexual exploitation is perpetrated by individuals across all ethnic backgrounds, with institutional police failure being the central common factor.",
+      "Weaponizing flawed statistics in partisan media distracts from funding victim support and multi-agency policing."
+    ]
+  },
+  {
+    "id": "a34",
+    "section": "Britain",
+    "prominence": "standard_article",
+    "words": 520,
+    "headline": "Health tech and AI come to equestrianism",
+    "standfirst": "Horse wearables: a heritage sport embraces biometric sensors",
+    "entities": [
+      "Britain",
+      "Newmarket",
+      "Equestrianism",
+      "Artificial Intelligence",
+      "Wearable Biometrics",
+      "British Horseracing Authority"
+    ],
+    "events": [
+      "Leading British racehorse trainers adopt AI-powered gait analysis and wearable cardiac sensors to detect lameness before catastrophic bone fractures"
+    ],
+    "core_claims": [
+      "Predictive AI sensor algorithms are revolutionizing equine veterinary medicine by detecting microscopic biomechanical stress in elite thoroughbreds.",
+      "The technology addresses rising animal welfare concerns while preserving billions in racing bloodstock investments."
+    ]
+  },
+  {
+    "id": "a35",
+    "section": "Britain",
+    "prominence": "standard_article",
+    "words": 1050,
+    "headline": "Britain is struggling to build data centres",
+    "standfirst": "This rackless isle: planning and power grids throttle the AI dream",
+    "entities": [
+      "Britain",
+      "National Grid",
+      "Microsoft",
+      "Amazon Web Services (AWS)",
+      "Slough",
+      "London",
+      "Green Belt",
+      "Department for Science, Innovation and Technology"
+    ],
+    "events": [
+      "Tech giants put $15bn in UK data centre projects on hold due to 7-year wait times for electricity grid connections in the Thames Valley",
+      "Labour government proposes overriding green-belt planning restrictions for critical digital infrastructure"
+    ],
+    "core_claims": [
+      "Britain's ambitions to become a European AI superpower are hitting a physical wall of sluggish planning approvals and severe electricity grid connection delays.",
+      "Data centre power demand is projected to surge fivefold by 2030, competing directly with domestic heat pumps and electric vehicle charging.",
+      "Without emergency statutory designations and grid transmission reform, cloud compute investment will flee to Scandinavia and France."
+    ]
+  },
+  {
+    "id": "a36",
+    "section": "Britain",
+    "prominence": "standard_article",
+    "words": 910,
+    "headline": "The indie establishment",
+    "standfirst": "Bagehot: what happens when the alternative becomes the mainstream?",
+    "entities": [
+      "Britain",
+      "Andy Burnham",
+      "The Smiths",
+      "Bagehot",
+      "Labour Party",
+      "Manchester",
+      "Westminster"
+    ],
+    "events": [
+      "Burnham hosts regional cultural and political gathering at his Manchester office celebrating northern autonomy"
+    ],
+    "core_claims": [
+      "Andy Burnham has cultivated an 'indie rock' brand of northern provincial governance that offers a populist alternative to technocratic Westminster politics.",
+      "Yet having consolidated regional power, Burnham now confronts the contradiction of being an anti-establishment rebel who heads the establishment."
+    ]
+  },
+  {
+    "id": "a37",
+    "section": "International",
+    "prominence": "section_opening",
+    "words": 1180,
+    "headline": "The restaurant business is changing beyond recognition",
+    "standfirst": "A tall order: technology, inflation and shifting customer habits upend dining",
+    "entities": [
+      "United States",
+      "Europe",
+      "DoorDash",
+      "Uber Eats",
+      "Toast",
+      "Sweetgreen",
+      "National Restaurant Association"
+    ],
+    "events": [
+      "Global hospitality summit in Chicago reports fast-casual automation and dynamic surge pricing expanding across mid-tier dining chains"
+    ],
+    "core_claims": [
+      "Persistent wage inflation, delivery app commissions, and soaring commercial rents are destroying the economics of traditional sit-down independent restaurants.",
+      "The industry is bifurcating into luxury experiential fine dining and hyper-automated, roboticized fast-casual chains.",
+      "Customer pushback against 'tipflation' and digital kiosk ordering highlights a growing cultural backlash against transactional dining."
+    ]
+  },
+  {
+    "id": "a38",
+    "section": "International",
+    "prominence": "standard_article",
+    "words": 1250,
+    "headline": "Can French nukes protect Europe if Donald Trump walks away?",
+    "standfirst": "The Telegram: Europeans eye nuclear collaboration with Emmanuel Macron",
+    "entities": [
+      "France",
+      "Europe",
+      "Emmanuel Macron",
+      "Donald Trump",
+      "NATO",
+      "Force de Frappe",
+      "Germany",
+      "Poland",
+      "United Kingdom",
+      "Marine Le Pen"
+    ],
+    "events": [
+      "French and German security delegations hold classified consultations in Paris on European strategic nuclear deterrence autonomy in July 2026",
+      "Trump reiterates conditions-based NATO collective defence commitments"
+    ],
+    "core_claims": [
+      "European capitals are terrified that Donald Trump's return could shatter the US nuclear umbrella, forcing a re-examination of French strategic capabilities.",
+      "France's independent arsenal of ~290 warheads is legally and doctrinally tied to French 'vital interests', which Macron has offered to define in European terms.",
+      "However, German reluctance to pay for French nuclear modernisation and the prospect of a nationalist Marine Le Pen presidency make a Europeanized deterrence pact deeply fragile."
+    ]
+  },
+  {
+    "id": "a39",
+    "section": "Business",
+    "prominence": "section_opening",
+    "words": 1220,
+    "headline": "America has become an entrepreneur’s paradise",
+    "standfirst": "Small but mighty: solopreneurs enjoy the fruits of AI",
+    "entities": [
+      "United States",
+      "Small Business Administration (SBA)",
+      "Etsy",
+      "Shopify",
+      "OpenAI",
+      "Anthropic",
+      "Zachary Dunn",
+      "Georgia"
+    ],
+    "events": [
+      "US new business applications reach 5.5 million in 2026, sustaining an unprecedented five-year post-pandemic entrepreneurial boom",
+      "AI agent tools automate legal, bookkeeping, and marketing workflows for one-person firms"
+    ],
+    "core_claims": [
+      "Generative AI tools and low-code platforms have dramatically lowered the capital barrier to launching and scaling single-person businesses.",
+      "Rather than destroying jobs, AI is supercharging small-firm productivity, allowing sole proprietors to compete directly with mid-sized corporate rivals.",
+      "This decentralized enterprise wave offers a resilient engine of American economic dynamism and employment flexibility."
+    ]
+  },
+  {
+    "id": "a40",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 870,
+    "headline": "There’s never been a better time to commit financial fraud",
+    "standfirst": "Crime without punishment: underfunded watchdogs lag complex scams",
+    "entities": [
+      "United States",
+      "Securities and Exchange Commission (SEC)",
+      "Department of Justice (DOJ)",
+      "Commodity Futures Trading Commission (CFTC)",
+      "Wall Street"
+    ],
+    "events": [
+      "Federal audits reveal corporate white-collar enforcement actions have dropped to a 20-year low despite massive increases in market capitalization"
+    ],
+    "core_claims": [
+      "Resource constraints and judicial rulings curtailing administrative enforcement have severely weakened federal financial regulators.",
+      "Sophisticated fraudsters exploit regulatory blind spots across synthetic private equity funds and offshore crypto structures with near impunity."
+    ]
+  },
+  {
+    "id": "a41",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 810,
+    "headline": "Selling stakes in the beautiful game. What could go wrong?",
+    "standfirst": "Red card: private capital floods into European football",
+    "entities": [
+      "European Football",
+      "UEFA",
+      "Premier League",
+      "Serie A",
+      "777 Partners",
+      "RedBird Capital",
+      "Private Equity"
+    ],
+    "events": [
+      "Several multi-club football ownership conglomerates face financial insolvencies and regulatory scrutiny in summer 2026"
+    ],
+    "core_claims": [
+      "Private equity investors poured billions into European football chasing media rights growth, but high debt loads and club wage inflation are crushing returns.",
+      "Multi-club ownership models create acute conflicts of interest and threaten the competitive integrity of European domestic leagues."
+    ]
+  },
+  {
+    "id": "a42",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 640,
+    "headline": "Private equity is coming for the Indian Premier League",
+    "standfirst": "Barbarians at the crease: institutional capital targets Indian cricket",
+    "entities": [
+      "India",
+      "Indian Premier League (IPL)",
+      "Board of Control for Cricket in India (BCCI)",
+      "CVC Capital Partners",
+      "Mumbai Indians"
+    ],
+    "events": [
+      "Global buyout funds bid record valuations to acquire minority stakes in top IPL cricket franchises during 2026 team equity sales"
+    ],
+    "core_claims": [
+      "The IPL has transformed into one of the world's most lucrative sports properties, boasting eye-watering broadcast rights and immense digital engagement.",
+      "Private equity investors are seeking to expand franchise brands internationally, turning cricket teams into global entertainment platforms."
+    ]
+  },
+  {
+    "id": "a43",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 910,
+    "headline": "Forget Airbus and Boeing. Embraer is soaring",
+    "standfirst": "In the ascent: Brazil’s plane-maker capitalises on duopoly stumbles",
+    "entities": [
+      "Brazil",
+      "Embraer",
+      "E-Jets E2",
+      "Boeing",
+      "Airbus",
+      "Francisco Gomes Neto",
+      "São Paulo"
+    ],
+    "events": [
+      "Embraer logs historic order backlog expansion at international airshows as Boeing and Airbus suffer severe delivery delays in 2026"
+    ],
+    "core_claims": [
+      "Brazil's Embraer has masterfully exploited delivery crises at Boeing and Airbus to win major regional jet and defence aircraft contracts.",
+      "With modern fuel-efficient engines and exceptional operational reliability, Embraer's E2 family is capturing mainline carriers seeking smaller, flexible planes."
+    ]
+  },
+  {
+    "id": "a44",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 730,
+    "headline": "The battle for Hugo Boss",
+    "standfirst": "Boss move: a British retail magnate tries to go upmarket",
+    "entities": [
+      "Germany",
+      "Britain",
+      "Hugo Boss",
+      "Frasers Group",
+      "Mike Ashley",
+      "Metzingen",
+      "Frankfurt"
+    ],
+    "events": [
+      "Mike Ashley's Frasers Group increases its financial stake and options exposure in German luxury label Hugo Boss to over 30%"
+    ],
+    "core_claims": [
+      "Ashley's predatory creeping takeover strategy aims to pivot his retail empire into premium continental luxury.",
+      "Hugo Boss's supervisory board is resisting the British magnate, fearing brand erosion and cost-cutting that could destroy its premium standing."
+    ]
+  },
+  {
+    "id": "a45",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 610,
+    "headline": "The delights of deadlines",
+    "standfirst": "Bartleby: a friend to procrastinators, a necessity for managers",
+    "entities": [
+      "Bartleby",
+      "Parkinson’s Law",
+      "Corporate Management",
+      "Psychology"
+    ],
+    "events": [
+      "Management study examines employee output under flexible asynchronous schedules versus rigid project deadlines"
+    ],
+    "core_claims": [
+      "Deadlines are the ultimate antidote to perfectionism and administrative prattle in white-collar organisations.",
+      "Well-calibrated temporal pressure forces clarity, aligns team priorities, and converts endless contemplation into decisive execution."
+    ]
+  },
+  {
+    "id": "a46",
+    "section": "Business",
+    "prominence": "standard_article",
+    "words": 1080,
+    "headline": "South Korea’s stock-market boom is collapsing spectacularly",
+    "standfirst": "Schumpeter: the KOSPI tech rout may be a global harbinger",
+    "entities": [
+      "South Korea",
+      "KOSPI",
+      "Samsung Electronics",
+      "SK Hynix",
+      "Nvidia",
+      "AI Capex",
+      "Seoul"
+    ],
+    "events": [
+      "South Korea's KOSPI index plunges 18% in late July 2026, led by severe sell-offs in semiconductor and memory hardware equities",
+      "Retail investors stage margin-call liquidations across Seoul brokerage accounts"
+    ],
+    "core_claims": [
+      "South Korea's equity slump reveals deep vulnerability to any deceleration in Big Tech's hyperscale AI infrastructure spending.",
+      "High-bandwidth memory (HBM) suppliers face margin compression as chip production yields rise and tech giants demand lower silicon costs.",
+      "The Seoul rout serves as a cautionary early warning for global stock markets pricing in indefinite exponential AI revenue growth."
+    ]
+  },
+  {
+    "id": "a47",
+    "section": "Finance & economics",
+    "prominence": "section_opening",
+    "words": 1390,
+    "headline": "AI revenues are growing fast, but not fast enough",
+    "standfirst": "When 11 zeros is child’s play: returns on trillions in spending remain uncertain",
+    "entities": [
+      "Alphabet",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Nvidia",
+      "Wall Street",
+      "Big Tech",
+      "Venture Capital"
+    ],
+    "events": [
+      "Second-quarter 2026 Big Tech earnings reports reveal aggregate annual AI capital expenditures surpassing $250bn",
+      "Goldman Sachs and Sequoia Capital publish reports questioning enterprise software monetization timelines"
+    ],
+    "core_claims": [
+      "Hyperscale tech giants are spending astronomical sums on data centres and chips, but enterprise software AI revenues remain a tiny fraction of that capex.",
+      "The market's patience is wearing thin as investors demand tangible cash flows rather than pilot projects and efficiency promises.",
+      "If end-user software revenues do not accelerate rapidly, tech giants will be forced to slash capital spending, with brutal consequences for hardware suppliers."
+    ]
+  },
+  {
+    "id": "a48",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 990,
+    "headline": "Oil prices remain highly flammable",
+    "standfirst": "Smoke signals: Gulf flare-ups could bring triple digits back in a flash",
+    "entities": [
+      "Brent Crude",
+      "OPEC+",
+      "Saudi Arabia",
+      "Iran",
+      "Strait of Hormuz",
+      "International Energy Agency (IEA)",
+      "Houston"
+    ],
+    "events": [
+      "Brent crude benchmark surges past $88 a barrel following missile exchanges and tanker interdictions in the Persian Gulf in late July 2026",
+      "OPEC+ ministers convene emergency consultations on spare capacity release"
+    ],
+    "core_claims": [
+      "Despite subdued global industrial demand, oil markets are pricing in an extreme geopolitical risk premium due to Middle East supply vulnerability.",
+      "With over 20% of global petroleum transiting the narrow Strait of Hormuz, even minor military disruptions can trigger an immediate spike to $120/barrel.",
+      "Western central banks' inflation-cutting roadmaps would be completely derailed by a renewed fossil-fuel price shock."
+    ]
+  },
+  {
+    "id": "a49",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 820,
+    "headline": "How to design paper money that represents Europe",
+    "standfirst": "Freude, schöner Banknoten: the euro gets a makeover",
+    "entities": [
+      "European Central Bank (ECB)",
+      "Christine Lagarde",
+      "Frankfurt",
+      "Euro",
+      "European Union"
+    ],
+    "events": [
+      "ECB unveils shortlisted design concepts for the first complete redesign of euro banknotes since their launch in 2002"
+    ],
+    "core_claims": [
+      "Designing paper currency for 20 sovereign nations requires navigating intense national rivalries and competing historical memories.",
+      "The ECB is shifting away from generic architectural bridges toward themes of shared natural landscapes and European cultural pioneers.",
+      "The aesthetic exercise highlights the broader challenge of forging a unified European popular identity without federal political union."
+    ]
+  },
+  {
+    "id": "a50",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 920,
+    "headline": "A common European safe asset is still unlikely",
+    "standfirst": "Joint and separate: high national debts keep Europe divided",
+    "entities": [
+      "European Union",
+      "Germany",
+      "Friedrich Merz",
+      "France",
+      "Italy",
+      "Dublin",
+      "NextGenerationEU",
+      "Eurobonds"
+    ],
+    "events": [
+      "German Chancellor Friedrich Merz delivers landmark economic address in Dublin firmly rejecting joint EU borrowing schemes in July 2026",
+      "EU leaders clash over financing defence and green transition budgets"
+    ],
+    "core_claims": [
+      "Germany and northern frugal states remain adamantly opposed to permanent common European debt issuance (Eurobonds).",
+      "High sovereign debt ratios in France and Italy make fiscal mutualization politically toxic for German taxpayers.",
+      "Without a genuine common safe asset, Europe's capital markets union will remain stunted compared with America's deep Treasury market."
+    ]
+  },
+  {
+    "id": "a51",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 960,
+    "headline": "Japan pursues an ill-timed fiscal stimulus",
+    "standfirst": "Sanaenomics, not Abenomics: an inflationary splurge creates fresh headaches",
+    "entities": [
+      "Japan",
+      "Takaichi Sanae",
+      "Bank of Japan (BOJ)",
+      "Ueda Kazuo",
+      "Yen",
+      "Tokyo"
+    ],
+    "events": [
+      "Prime Minister Takaichi Sanae pushes a multi-trillion yen supplementary budget package through the Diet despite rising core inflation",
+      "BOJ faces intense market pressure to accelerate interest-rate hikes"
+    ],
+    "core_claims": [
+      "Takaichi's aggressive fiscal expansion is poorly timed for an economy already experiencing above-target inflation and acute labour shortages.",
+      "Fiscal splurging directly undermines the Bank of Japan's efforts to normalize monetary policy and stabilize the depreciating yen.",
+      "Japan risks igniting a dangerous bond market sell-off if investors conclude fiscal discipline has been abandoned."
+    ]
+  },
+  {
+    "id": "a52",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 830,
+    "headline": "Retail investors should beware perpetual futures",
+    "standfirst": "Buttonwood: crypto’s casino contract hits the mainstream",
+    "entities": [
+      "Buttonwood",
+      "Perpetual Futures",
+      "Crypto Derivatives",
+      "Binance",
+      "Retail Investors",
+      "CFTC"
+    ],
+    "events": [
+      "Mainstream brokerage platforms introduce crypto perpetual swap contracts to retail day-traders in mid-2026"
+    ],
+    "core_claims": [
+      "Perpetual futures offer astronomical leverage without expiry dates, but high funding rates and sudden liquidations ensure most retail traders lose money.",
+      "Mainstreaming speculative crypto casino contracts creates systemic consumer protection risks during periods of market volatility."
+    ]
+  },
+  {
+    "id": "a53",
+    "section": "Finance & economics",
+    "prominence": "standard_article",
+    "words": 1010,
+    "headline": "How many people are dying as a result of USAID’s demise?",
+    "standfirst": "Free Exchange: fewer than academics imagine, but more than Elon Musk admits",
+    "entities": [
+      "USAID",
+      "Elon Musk",
+      "Department of Government Efficiency (DOGE)",
+      "Sub-Saharan Africa",
+      "Free Exchange",
+      "Global Health"
+    ],
+    "events": [
+      "Congressional hearings examine public health fallout following severe budgetary cuts to USAID global health and maternal care programs"
+    ],
+    "core_claims": [
+      "Academic estimates predicting millions of immediate fatalities from USAID cuts often rely on static, overly pessimistic modelling.",
+      "Nonetheless, real maternal and infectious disease mortality has measurably increased in fragile African states that cannot replace foreign funding.",
+      "Slashing development aid saves trivial sums in the federal budget while inflicting severe humanitarian and geopolitical harm on American influence."
+    ]
+  },
+  {
+    "id": "a54",
+    "section": "Science & technology",
+    "prominence": "section_opening",
+    "words": 1420,
+    "headline": "Quantum computers promise mathematical superpowers",
+    "standfirst": "Faster than a speeding bullet: superpowers with distinct limits",
+    "entities": [
+      "Quantum Computing",
+      "Qubits",
+      "Shor’s Algorithm",
+      "Grover’s Algorithm",
+      "IBM",
+      "Google Quantum AI",
+      "RSA Encryption"
+    ],
+    "events": [
+      "Major research breakthroughs in logical qubit error correction announced at global physics symposium in July 2026",
+      "Government agencies accelerate post-quantum cryptographic transitions"
+    ],
+    "core_claims": [
+      "Fault-tolerant quantum computers will excel at specific mathematical problems—including integer factorization and quantum chemical simulation—with exponential speedups.",
+      "However, quantum systems are not universal accelerators for general computing; classical supercomputers will remain superior for most business tasks.",
+      "The strategic imperative is upgrading vulnerable legacy encryption standards before cryptographic quantum breakthroughs occur."
+    ]
+  },
+  {
+    "id": "a55",
+    "section": "Science & technology",
+    "prominence": "standard_article",
+    "words": 980,
+    "headline": "AI and quantum computers will be frenemies",
+    "standfirst": "Super positioning: the two frontier technologies are complementary",
+    "entities": [
+      "Artificial Intelligence",
+      "Quantum Computing",
+      "Google",
+      "NASA",
+      "Machine Learning",
+      "Quantum Annealing"
+    ],
+    "events": [
+      "Research labs deploy deep reinforcement learning models to optimize real-time error correction on experimental quantum processors"
+    ],
+    "core_claims": [
+      "Rather than competing for technical dominance, AI and quantum computing reinforce each other in a powerful technological symbiosis.",
+      "Classical AI models are essential for tuning quantum hardware and decoding noisy sensor data, while quantum processors may eventually accelerate specialised optimization kernels.",
+      "Hybrid classical-quantum architectures will dominate frontier scientific computation over the next decade."
+    ]
+  },
+  {
+    "id": "a56",
+    "section": "Culture",
+    "prominence": "section_opening",
+    "words": 1140,
+    "headline": "How to spot AI writing",
+    "standfirst": "Paper trails: large language models like long words and em-dashes—or do they?",
+    "entities": [
+      "Large Language Models (LLMs)",
+      "Generative AI",
+      "Perplexity",
+      "Burstiness",
+      "OpenAI",
+      "Stylometry",
+      "English Language"
+    ],
+    "events": [
+      "Linguistic forensics researchers publish comprehensive benchmark analyzing syntactic markers of frontier LLM writing in 2026"
+    ],
+    "core_claims": [
+      "LLM-generated prose exhibits subtle structural tells, including hyper-balanced rhythm, lack of burstiness, overreliance on em-dashes, and a predilection for polite platitudes.",
+      "As models are fine-tuned on human feedback, statistical watermark detection becomes an escalating cat-and-mouse game.",
+      "Human readers must develop critical stylistic discernment rather than relying purely on automated AI detectors."
+    ]
+  },
+  {
+    "id": "a57",
+    "section": "Culture",
+    "prominence": "standard_article",
+    "words": 730,
+    "headline": "How Tom Holland became the world’s highest-grossing young actor",
+    "standfirst": "Of all the young dudes: lessons from prodigious early stardom",
+    "entities": [
+      "Tom Holland",
+      "Spider-Man",
+      "Marvel Cinematic Universe",
+      "Hollywood",
+      "West End",
+      "Romeo and Juliet"
+    ],
+    "events": [
+      "Tom Holland headlines sold-out West End stage production of Romeo and Juliet in London following multi-billion dollar box office runs"
+    ],
+    "core_claims": [
+      "Holland's career represents a rare successful transition from juvenile gymnastics and theatre to global blockbuster franchise dominance.",
+      "Unlike older Hollywood stars who shunned the stage, Holland leverages indie stage discipline to preserve artistic credibility while commanding peak studio paychecks."
+    ]
+  },
+  {
+    "id": "a58",
+    "section": "Culture",
+    "prominence": "standard_article",
+    "words": 820,
+    "headline": "The terrifying threat of a genetically engineered plague",
+    "standfirst": "O’ all your houses: Annie Jacobsen imagines the repercussions of a lab leak",
+    "entities": [
+      "Annie Jacobsen",
+      "Synthetic Biology",
+      "Biosecurity",
+      "Biological Weapons",
+      "WHO",
+      "Gain of Function"
+    ],
+    "events": [
+      "Release of investigative author Annie Jacobsen's new non-fiction thriller analyzing global vulnerability to engineered viral pathogens"
+    ],
+    "core_claims": [
+      "Advances in desktop gene synthesis and AI protein design tools have dramatically lowered technical barriers to creating catastrophic pandemic pathogens.",
+      "Global biosecurity surveillance and laboratory oversight protocols remain woefully inadequate to prevent accidental leaks or rogue biological terrorism.",
+      "A fast-spreading engineered synthetic plague would overwhelm global healthcare infrastructure within weeks."
+    ]
+  },
+  {
+    "id": "a59",
+    "section": "Culture",
+    "prominence": "standard_article",
+    "words": 810,
+    "headline": "Bold, brash and divisive: inside the Barstool Sports empire",
+    "standfirst": "Portnoy, without complaints: refusing to please everyone pays off",
+    "entities": [
+      "Barstool Sports",
+      "Dave Portnoy",
+      "Digital Media",
+      "Sports Betting",
+      "Penn Entertainment",
+      "Gen Z"
+    ],
+    "events": [
+      "Barstool Sports reports record digital viewership and merchandise profits following its repurchase by founder Dave Portnoy"
+    ],
+    "core_claims": [
+      "Barstool has thrived by unapologetically leaning into blue-collar, frat-boy sports comedy while legacy media brands struggled with sanctimonious cultural conformity.",
+      "By tying irreverent video content directly to sports betting affiliate marketing, Portnoy built an intensely loyal, highly monetizable male audience."
+    ]
+  },
+  {
+    "id": "a60",
+    "section": "Culture",
+    "prominence": "standard_article",
+    "words": 860,
+    "headline": "A racist massacre. A white-supremacist coup. A century of lies",
+    "standfirst": "Race in America: the Wilmington insurrection of 1898 and its long aftermath",
+    "entities": [
+      "Wilmington",
+      "North Carolina",
+      "1898 Wilmington Coup",
+      "Reconstruction",
+      "Jim Crow",
+      "African-Americans"
+    ],
+    "events": [
+      "Publication of groundbreaking historical monograph detailing the 1898 violent overthrow of Wilmington's biracial municipal government"
+    ],
+    "core_claims": [
+      "The 1898 Wilmington coup represents the only successful violent municipal overthrow of an elected government in US history, ushering in decades of violent disenfranchisement.",
+      "White supremacists systematically buried the memory of the massacre under a fabricated mythology of racial restoration for over a century.",
+      "Unearthing the accurate history of Wilmington is essential for understanding persistent racial and voting rights struggles in the American South."
+    ]
+  },
+  {
+    "id": "a61",
+    "section": "Culture",
+    "prominence": "standard_article",
+    "words": 890,
+    "headline": "Border walls are symbols of power—and monuments to delusion",
+    "standfirst": "Back Story: a summer stroll along Hadrian’s Wall rendezvous with history",
+    "entities": [
+      "Hadrian’s Wall",
+      "Roman Empire",
+      "Northumberland",
+      "United States-Mexico Border",
+      "Back Story"
+    ],
+    "events": [
+      "Cultural essay retracing the 73-mile Roman fortification across northern England amidst modern debates over border walls"
+    ],
+    "core_claims": [
+      "Throughout human history, physical border walls have served more as psychological monuments to imperial insecurity than effective barriers against human movement.",
+      "Hadrian's Wall did not halt Caledonian migrations; it merely institutionalized customs taxation and signaled Rome's imperial retreat from endless expansion.",
+      "Modern political obsessions with border fortifications echo ancient delusions of controlling dynamic civilisational flows with stone and steel."
+    ]
+  }
+]

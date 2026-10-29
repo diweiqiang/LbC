@@ -1,0 +1,21 @@
+# Raw magazine copyrighted PDFs
+经济学人杂志源文件/
+*.pdf
+
+# Figures excluded
+figures/
+
+# OS & Temporary Files
+.DS_Store
+.texpadtmp/
+__pycache__/
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+
+# Scratch & private files
+submission/
+*.swp

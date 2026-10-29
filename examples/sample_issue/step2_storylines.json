@@ -1,0 +1,195 @@
+{
+  "issue_id": "2026-08-01",
+  "total_body_articles": 61,
+  "multi_article_storylines": [
+    {
+      "storyline_id": "S01",
+      "member_article_ids": [
+        "a01",
+        "a02"
+      ],
+      "sections_spanned": [
+        "By Invitation",
+        "Briefing"
+      ],
+      "relation_type": "complementary_evidence",
+      "label": "Global Currency Mispricing, the Big Mac Index, and Structural Trade Balances",
+      "justification": "While a02 uses 40 years of Big Mac index data to demonstrate that real exchange rates persistently diverge from purchasing power parity (even after adjusting for GDP per person), a01 supplies the macroeconomic policy counter-argument showing that trade deficits stem from national savings-investment imbalances rather than nominal currency manipulation."
+    },
+    {
+      "storyline_id": "S02",
+      "member_article_ids": [
+        "a35",
+        "a39",
+        "a47",
+        "a55",
+        "a56"
+      ],
+      "sections_spanned": [
+        "Britain",
+        "Business",
+        "Finance & economics",
+        "Science & technology",
+        "Culture"
+      ],
+      "relation_type": "complementary_evidence",
+      "label": "The AI Infrastructure Boom: Capital Returns, Power Grid Bottlenecks, and Enterprise Adoption",
+      "justification": "a47 reveals the financial risks of Big Tech's $250bn annual AI capex failing to generate matching enterprise software revenue; a35 exposes the physical bottleneck as grid delays stall UK data centres; a39 documents the demand-side reality of small firms adopting AI tools to drive solopreneur productivity; a55 identifies technical synergies between AI optimization and quantum computing; and a56 examines the linguistic forensics of detecting synthetic AI-generated text."
+    },
+    {
+      "storyline_id": "S03",
+      "member_article_ids": [
+        "a13",
+        "a18",
+        "a29",
+        "a38"
+      ],
+      "sections_spanned": [
+        "United States",
+        "The Americas",
+        "Europe",
+        "International"
+      ],
+      "relation_type": "shared_event_aspects",
+      "label": "Western Security Realignment, Trump's Unpredictability, and European Nuclear Autonomy",
+      "justification": "a13 analyzes Donald Trump's transactional diplomacy with Volodymyr Zelensky; a29 details Russian missile strikes destroying Ukrainian port silos in Odessa to strangle food exports; a18 shows Canada pivoting military procurement toward European shipyards to hedge against US isolationism; and a38 explores whether French nuclear capabilities can establish an autonomous European deterrence umbrella if Washington withdraws security guarantees."
+    },
+    {
+      "storyline_id": "S04",
+      "member_article_ids": [
+        "a21",
+        "a22",
+        "a48"
+      ],
+      "sections_spanned": [
+        "Middle East & Africa",
+        "Finance & economics"
+      ],
+      "relation_type": "complementary_evidence",
+      "label": "Middle Eastern Military Escalation and Global Oil Price Fragility",
+      "justification": "a21 reports US airstrikes on Iranian bases following the collapse of an informal Gulf truce; a22 details Saudi Arabia's dilemma in containing Houthi maritime missile attacks in the Red Sea; and a48 links these security flashpoints directly to global energy markets, showing how Strait of Hormuz chokepoints keep crude oil primed for a triple-digit price surge."
+    },
+    {
+      "storyline_id": "S05",
+      "member_article_ids": [
+        "a03",
+        "a09",
+        "a46",
+        "a51"
+      ],
+      "sections_spanned": [
+        "Asia",
+        "China",
+        "Business",
+        "Finance & economics"
+      ],
+      "relation_type": "contrast_or_conflict",
+      "label": "East Asian Geopolitical Tension, Semiconductor Subsidies, and Market Volatility",
+      "justification": "a03 documents Beijing's escalating maritime pressure on US allies in the South China Sea; a09 shows China's state-backed venture model successfully building memory-chip giant CXMT; a46 contrasts this with South Korea's KOSPI semiconductor market crash amid slowing hyperscale demand; and a51 analyzes Japan's ill-timed fiscal expansion destabilizing the yen."
+    },
+    {
+      "storyline_id": "S06",
+      "member_article_ids": [
+        "a41",
+        "a42",
+        "a59"
+      ],
+      "sections_spanned": [
+        "Business",
+        "Culture"
+      ],
+      "relation_type": "shared_event_aspects",
+      "label": "Private Equity Inflows and Digital Commercialisation in Global Sports Franchises",
+      "justification": "a41 examines multi-club private equity buyouts straining European football; a42 tracks institutional buyout consortiums bidding record sums for Indian Premier League cricket franchises; and a59 illustrates the cultural and commercial media power of Barstool Sports monetizing sports betting and online fandom."
+    },
+    {
+      "storyline_id": "S07",
+      "member_article_ids": [
+        "a12",
+        "a16",
+        "a17"
+      ],
+      "sections_spanned": [
+        "United States"
+      ],
+      "relation_type": "shared_event_aspects",
+      "label": "Federal Welfare Retrenchment, Post-Dobbs Politics, and Democratic Primary Divisions in the US",
+      "justification": "a12 details anti-abortion crusaders pushing federal travel bans and Comstock Act enforcement; a16 analyzes Trump's food-stamp SNAP overhauls shifting fiscal burdens to cash-strapped states; and a17 examines how economic grievances and anti-war sentiment divide the Michigan Senate Democratic primary."
+    },
+    {
+      "storyline_id": "S08",
+      "member_article_ids": [
+        "a26",
+        "a49",
+        "a50"
+      ],
+      "sections_spanned": [
+        "Europe",
+        "Finance & economics"
+      ],
+      "relation_type": "complementary_evidence",
+      "label": "European Fiscal Disunity, Common Debt Impasse, and Ecological Strain",
+      "justification": "a50 reports German Chancellor Friedrich Merz's decisive refusal to back joint European safe assets (Eurobonds); a49 examines the ECB's redesign of euro banknotes to foster supranational identity; and a26 documents record-breaking wildfires incinerating 400,000 hectares in France and Spain, imposing massive fiscal recovery burdens on southern Europe."
+    },
+    {
+      "storyline_id": "S09",
+      "member_article_ids": [
+        "a04",
+        "a07"
+      ],
+      "sections_spanned": [
+        "Asia"
+      ],
+      "relation_type": "complementary_evidence",
+      "label": "India's Graduate Unemployment Crisis and Narendra Modi's Political Realignment",
+      "justification": "a04 exposes nationwide student protests over leaked exams and severe graduate underemployment; a07 analyzes Narendra Modi's political maneuvers to regain his electoral mandate by shifting from Hindu nationalism to youth welfare stipends following parliamentary setbacks."
+    },
+    {
+      "storyline_id": "S10",
+      "member_article_ids": [
+        "a10",
+        "a20",
+        "a61"
+      ],
+      "sections_spanned": [
+        "China",
+        "The Americas",
+        "Culture"
+      ],
+      "relation_type": "shared_event_aspects",
+      "label": "State Control, Legal Coercion, and the Illusions of Physical and Ideological Borders",
+      "justification": "a10 reports Hong Kong's ongoing national security raids shuttering independent bookstores; a20 analyzes Brazil's strict criminalisation and imprisonment of racist online speech; and a61 reflects historically on border walls from Hadrian's Wall to modern frontiers as monuments to imperial anxiety and political delusion."
+    }
+  ],
+  "singleton_article_ids": [
+    "a05",
+    "a06",
+    "a08",
+    "a11",
+    "a14",
+    "a15",
+    "a19",
+    "a23",
+    "a24",
+    "a25",
+    "a27",
+    "a28",
+    "a30",
+    "a31",
+    "a32",
+    "a33",
+    "a34",
+    "a36",
+    "a37",
+    "a40",
+    "a43",
+    "a44",
+    "a45",
+    "a52",
+    "a53",
+    "a54",
+    "a57",
+    "a58",
+    "a60"
+  ]
+}
